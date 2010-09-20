@@ -1,0 +1,1 @@
+XBMC Scraper that doesn't try to do any automatic scraping. Instead it relies on .nfo and mymovies.xml files which should have all proper information.
